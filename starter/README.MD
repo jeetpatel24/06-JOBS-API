@@ -67,3 +67,8 @@ Swagger UI
       required: true
       description: the job id
 ```
+
+
+
+..........................
+controller functions -> routes -> connect DB (setup .env)
